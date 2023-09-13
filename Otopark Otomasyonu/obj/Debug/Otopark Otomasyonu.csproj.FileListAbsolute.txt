@@ -1,0 +1,36 @@
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.pdb
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\yesil\source\repos\Otopark Otomasyonu\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmAnaSayfa.resources
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmOtoYer.resources
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Properties.Resources.resources
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.GenerateResource.cache
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe.licenses
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.CopyComplete
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmOtoKayıt.resources
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmAracCıkıs.resources
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmMarka.resources
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmSatısListe.resources
+C:\Users\yesil\source\repos\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmSeri.resources
